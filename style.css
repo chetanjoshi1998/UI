@@ -1,0 +1,127 @@
+body .unipadding {
+    padding: 3%;
+}
+
+.background {
+    background-color: thistle;
+}
+
+#logo {
+    width: 40%;
+    float: left;
+    background-color: rgb(255, 255, 100);
+    overflow: auto;
+}
+
+#name {
+    width: 60%;
+    float: left;
+    background-color: rgb(255, 255, 100);
+    font-size: 17.5px;
+    font-family: Bernard MT Condensed;
+    padding-top: 56px;
+    padding-bottom: 56px;
+    text-align: center;
+}
+
+ul,
+li {
+    display: flex;
+    padding: 15px;
+    background-color: rgb(239, 228, 176);
+    width: 100%;
+    float: left;
+}
+
+#list a:hover {
+    color: darkgray;
+}
+
+#middle {
+    background-color: seashell;
+}
+
+#chat {
+    width: 30%;
+    float: left;
+}
+
+#msg {
+    font-size: 30px;
+}
+
+#call {
+    font-size: 30px;
+}
+
+#event {
+    font-size: 30px;
+}
+
+#phone {
+    width: 40%;
+    float: left;
+}
+
+#live {
+    width: 30%;
+    float: left;
+}
+
+*/
+/* forms */
+
+#form {
+    clear: both;
+    width: 50%;
+    float: left;
+    background-color: lightcoral;
+    padding-top: 20px;
+    padding-bottom: 46px;
+}
+
+
+/* muhurta */
+
+#muhurta {
+    width: 50%;
+    float: left;
+    font-size: large;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: green;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: lightseagreen;
+}
+
+
+/*info*/
+
+#info {
+    width: 100%;
+    float: left
+}
+
+#heading {
+    font-family: monospace;
+    background-color: yellow;
+}
+
+#astrology {
+    background-color: rgb(52, 95, 94);
+    font-size: large
+}
+
+
+/*footer*/
+
+#footer,
+ul,
+li {
+    display: flex;
+    padding: 10px;
+    background-color: rgb(239, 228, 176);
+    width: 100%;
+    float: left;
+}
